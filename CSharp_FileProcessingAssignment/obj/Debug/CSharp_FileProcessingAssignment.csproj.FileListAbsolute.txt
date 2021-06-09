@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\bin\Debug\CSharp_FileProcessingAssignment.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\bin\Debug\CSharp_FileProcessingAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\bin\Debug\CSharp_FileProcessingAssignment.pdb
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\obj\Debug\CSharp_FileProcessingAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\obj\Debug\CSharp_FileProcessingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\obj\Debug\CSharp_FileProcessingAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_FileProcessingAssignment\CSharp_FileProcessingAssignment\obj\Debug\CSharp_FileProcessingAssignment.pdb
